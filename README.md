@@ -1,6 +1,8 @@
 # Microcontroller Unit (mcu) Build 
 In this assignment you will be breadboarding a microcontroller creating an Arduino Uno-like prototyping board.
 
+[PDF Instructions](https://drive.google.com/file/d/1hP5p0DkzjecyW-mHANgzgwCYNqn0Ad1u/view?usp=sharing)
+
 # Materials
 
 ## Breadboarding parameters
